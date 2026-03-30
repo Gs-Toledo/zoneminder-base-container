@@ -1,2 +1,6 @@
 .idea
 test/zm/*
+*.mp4
+*.jpg
+*.s
+*.log

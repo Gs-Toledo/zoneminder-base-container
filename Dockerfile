@@ -289,7 +289,7 @@ ENV \
     FASTCGI_BUFFERS_CONFIGURATION_STRING="64 4K" \
     PUID=911 \
     PGID=911 \
-    TZ="America/Chicago" \
+    TZ="America/Sao_Paulo" \
     USE_SECURE_RANDOM_ORG=1
 
 LABEL \
