@@ -42,7 +42,7 @@ services:
         target: /dev/shm
         tmpfs:
           size: 1000000000
-      - dev/video0:dev\video0
+      - /dev/video0:/dev/video0
     env_file:
       - ./.env
     environment:
